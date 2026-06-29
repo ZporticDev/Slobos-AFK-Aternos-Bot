@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "mahmutiye3169",
     "password": "",
     "type": "offline"
-  },
+  }, 
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "pastirma_smp.aternos.me",
+    "port": 63575,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "sa",
+        "elmas verebilecek var mı",
+        "elmas buldum tp atın"
       ]
     },
     "chat-log": true,
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1495055041717997701/qLhVNr4DXk4nPV4BpV9qrighip-1NgLq-DX-TCOryDFohVeSqhC7sKgnXXJe8vi8ijnv",
     "events": {
       "connect": true,
       "disconnect": true,
